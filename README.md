@@ -1,6 +1,6 @@
-# MANTHAN
+# MANTHAN GEDAM
 <h1 align="center">Hi 👋, I'm Manthan Gedam</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Fullstack Developer From India</h3>
 <img align="right" alt="Coding" width="320" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 - 🌱 I’m currently learning *MERN Stack Development*
